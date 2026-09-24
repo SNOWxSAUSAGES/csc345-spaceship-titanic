@@ -64,4 +64,8 @@ different passenger groups spend.
 - `train.csv` — dataset (from Kaggle)
 
 ## Team
-- [Name + Student ID]
+Chotiya Khawsanga 67130500806
+Nicha Hongsrimuang 67130500810
+Benyapon Saisong 67130500841
+Kalyathorn Yakam 67130500850
+Natthanicha Buasamlee 67130500854
