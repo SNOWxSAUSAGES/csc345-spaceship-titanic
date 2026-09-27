@@ -117,8 +117,8 @@ All numbers were re-checked in our own Orange workflow. See the AI Declaration
 slide in our presentation for details.
 
 ## Team
-- Chotiya Khawsanga
-- Nicha Hongsrimuang
-- Benyapon Saisong
-- Kalyathorn Yakam
-- Natthanicha Buasamlee
+- Chotiya Khawsanga 67130500806
+- Nicha Hongsrimuang 67130500810
+- Benyapon Saisong 67130500841
+- Kalyathorn Yakam 67130500850
+- Natthanicha Buasamlee 67130500854
