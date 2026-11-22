@@ -1,0 +1,8 @@
+อีก workflow  ทำมาเพื่อทดสอบว่า tuned model แบบไหนดีสุด 1 - 5 คือรอบแรก 6 - 10 คือ รอบสอง
+แต่ submission ใน Kaggle คือ 
+phase3 เฉยๆ อันแรกสุดเป็น catboosting default
+อันสองคือ catboosting_tuned อันแรกสุดที่นายให้ฉันทำ 
+phase3_R2 คือ catboosting_tuned set 4
+phase3_R3 คือ catboosting_tuned set 9
+
+workflow อันที่เพิ่มมา แค่หวังเอามา tuned โมเดลเพิ่ม ชนะคะแนน leaderboard ล้วนๆ
